@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>
+        Print a paragraph with 4 - 5 sentences.
+    </title>
+</head>
+<body>
+<p style="text-align:center;font-size:34px;">A short Intro </p>
+<p style="color: green; font-family: Calibri;"> Hello guys this is Abhishek Kumar tiwari i have recently join the
+    software company which is named as Diaspark Infotech as my education background is concern i have done my Higher secondary
+    schooling from Islamiya Urdu Academy from Bihar board and i hold the percentage of 70.2 and i have done my Senior secondary from
+    I.G.N.S collage from my state board Bihar and i hold the aggregate of 63.4% and at last i have completed my engineering from RITS Bhopal
+    with the Aggregate of 69.4</p>
+</body>
+</html>

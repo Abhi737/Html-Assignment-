@@ -1,0 +1,22 @@
+d<html>
+<head>
+    <tittle></tittle>
+</head>
+<body>
+<div style="margin-left: 30%; ">
+
+    <form style=" background-color: azure; text-align: center;width: 40%; border: 2px solid black;">
+        <h1>LOGIN PAGE</h1>
+        <label>USERNAME :</label>
+    <input type="text";style style="text-decoration-color: green name="username" /><br>
+        <br>
+    <label>PASSWORD :</label>
+    <input type="password" name="password" /><br>
+        <br>
+    <button type="submit">SUBMIT</button>
+
+</form>
+</div>
+
+</body>
+</html>
